@@ -7,7 +7,7 @@
 В то же время, пугающе большое количество дизайнеров интересуются типографикой 
 исключительно в эстетической плоскости. К сожалению, типографику и шрифтовой 
 дизайн часто считают взаимозаменяемыми понятиями, хотя [такое мнение ошибочно][1]. 
-Эту тенденицию можно отследить взглянув на то что постят [под меткой "типографика" 
+Эту тенденцию можно отследить взглянув на то что постят [под меткой "типографика" 
 на Dribbble][2].
 
 Очарование качественно выполненого шрифтового дизайна - чего уж греха таить, я 
@@ -658,3 +658,36 @@ Explorer (по крайней мере я об этом где-то слышал
 чётких и жёстких правил прошло и наша обязанность - собрать максимум информации 
 по проекту чтобы получить возможность принять компетентные решения и разработать 
 обстоятельную концепцию проекта.  
+
+[1]: http://www.smashingmagazine.com/2013/01/17/understanding-difference-between-type-and-lettering/
+[2]: http://dribbble.com/tags/typography
+[3]: http://opentype.info/blog/2012/11/20/whats-a-ligature/
+[4]: http://semanticstudios.com/publications/semantics/000029.php
+[5]: http://en.wikipedia.org/wiki/Reading_speed#Reading_rate
+[6]: http://briancray.com/posts/estimated-reading-time-web-design/
+[7]: http://en.wikipedia.org/wiki/Automated_Readability_Index
+[8]: http://en.wikipedia.org/wiki/Flesch-Kincaid_Readability_Test
+[9]: http://en.wikipedia.org/wiki/Flesch-Kincaid_readability_test#Flesch_Reading_Ease
+[10]: http://www.maratz.com/blog/archives/2012/07/26/article-readability-stats-with-php/
+[11]: http://www.creativenights.com/
+[12]: http://alistapart.com/article/thedisciplineofcontentstrategy
+[13]: http://books.google.hr/books?id=2d2Ry2hZc2MC
+[14]: http://stuffandnonsense.co.uk/blog/about/microcopy
+[15]: http://adactio.com/journal/1716/
+[16]: http://www.lucasfonts.com/fonts/thesans/thesans-office/features/
+[17]: http://www.smashingmagazine.com/2012/04/24/a-closer-look-at-font-rendering/
+[18]: http://typophile.com/node/81483
+[19]: http://informationarchitects.net/blog/responsive-typography/
+[20]: http://colororacle.org/
+[21]: http://www.urbandictionary.com/define.php?term=go+postal
+[22]: http://asserttrue.blogspot.se/2013/01/the-serif-readability-myth.html
+[23]: http://en.wikipedia.org/wiki/Pangram
+[24]: http://en.wikipedia.org/wiki/Digraph_%28orthography%29#Digraphs_versus_letters
+[25]: http://en.wikipedia.org/wiki/Trigraph_%28orthography%29
+[26]: http://en.wikipedia.org/wiki/Italian_alphabet
+[27]: http://www.usability.gov/pdfs/chapter11.pdf
+[28]: http://www.type-together.com/Skolar
+[29]: http://web.princeton.edu/sites/opplab/papers/Diemand-Yauman_Oppenheimer_2010.pdf
+[30]: http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces/
+[31]: http://www.smashingmagazine.com/2010/12/14/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
+[32]: http://www.smashingmagazine.com/2011/03/24/how-to-choose-a-typeface/
