@@ -114,21 +114,21 @@ processor-intensive for real-time assessments.
 
 Another valuable test is [Flesch Reading Ease][9]. It is calculated according to
 words, sentences and syllables; the resulting score helps you determine the
-level of complexity of content. Most major languages have their [own
-version][10]. Although this tool is new to some of us in Web design, textbook
+level of complexity of content. Most major languages have their own
+version. Although this tool is new to some of us in Web design, textbook
 publishers and government agencies have been using it for years to gauge the
 complexity of learning materials for different grade levels.
 
 Calculating the reading ease score manually for each piece of content would be
 an obvious sign of masochism, so I suggest checking out the handy [Article
-Readability Stats][11], a PHP script that we at [Creative Nights][12] developed
+Readability Stats][10], a PHP script that we at [Creative Nights][11] developed
 for our own projects.
 
 #### Content Strategy, Information Architecture and Microcopy
 
 If we step out of typography for a moment into the field of [content
-strategy][13] (the discipline of planning and governing content and of defining
-editorial processes) and [information architecture][14] (the discipline of
+strategy][12] (the discipline of planning and governing content and of defining
+editorial processes) and [information architecture][13] (the discipline of
 organizing and describing content), we can anticipate some potential issues.
 
 Thinking about the **content’s lifecycle** protects us from the urge to typeset
@@ -146,13 +146,13 @@ their end.
 
 Apart from articles, we must also typeset form labels, instructional copy, small
 print, interactive elements (such as buttons and links) and other text that
-clarifies tasks. All of this tiny copy is referred to as [microcopy][15], and it
+clarifies tasks. All of this tiny copy is referred to as [microcopy][14], and it
 is a fundamental ingredient in effective interaction design.
 
 ### Context
 
 With recent developments in Web standards, designers are now building websites
-that are getting closer and closer to the ideal of “[One Web][16],” accessible
+that are getting closer and closer to the ideal of “[One Web][15],” accessible
 to everyone and everywhere. Even though achieving such universality with all
 types of projects is difficult, we know that mobile doesn’t just mean browsing
 the Web on a smartphone while on the go.
@@ -194,7 +194,7 @@ the hinting efforts of font foundries. The greater the demand, the faster the
 process.
 
 If supporting Windows users is mission critical for your project, then consider
-manually hinted typefaces, such as [TheSans Office][17] from LucasFonts (these
+manually hinted typefaces, such as [TheSans Office][16] from LucasFonts (these
 guys are known for their obsession with hinting) or the numerous other typefaces
 designed for Microsoft Office applications (their names will usually contain
 “Com,” “Offc” or “Office”). If selecting a specialized typeface for an audience
@@ -202,7 +202,7 @@ with older Windows systems is not worth the trouble, then just stick with the
 tried and tested Arial, Georgia or Verdana.
 
 For more in-depth information about font rendering, read “[A Closer Look at Font
-Rendering][18]” by Tim Ahrens.
+Rendering][17]” by Tim Ahrens.
 
 #### Hardware Concerns
 
@@ -594,3 +594,36 @@ space, time, cognition, social conditions and physical conditions. The days of
 hard and fast rules are gone, and our responsibility is to learn everything we
 possibly can about a project in order to make informed decisions and establish a
 solid design concept.
+
+[1]: http://www.smashingmagazine.com/2013/01/17/understanding-difference-between-type-and-lettering/
+[2]: http://dribbble.com/tags/typography
+[3]: http://opentype.info/blog/2012/11/20/whats-a-ligature/
+[4]: http://semanticstudios.com/publications/semantics/000029.php
+[5]: http://en.wikipedia.org/wiki/Reading_speed#Reading_rate
+[6]: http://briancray.com/posts/estimated-reading-time-web-design/
+[7]: http://en.wikipedia.org/wiki/Automated_Readability_Index
+[8]: http://en.wikipedia.org/wiki/Flesch-Kincaid_Readability_Test
+[9]: http://en.wikipedia.org/wiki/Flesch-Kincaid_readability_test#Flesch_Reading_Ease
+[10]: http://www.maratz.com/blog/archives/2012/07/26/article-readability-stats-with-php/
+[11]: http://www.creativenights.com/
+[12]: http://alistapart.com/article/thedisciplineofcontentstrategy
+[13]: http://books.google.hr/books?id=2d2Ry2hZc2MC
+[14]: http://stuffandnonsense.co.uk/blog/about/microcopy
+[15]: http://adactio.com/journal/1716/
+[16]: http://www.lucasfonts.com/fonts/thesans/thesans-office/features/
+[17]: http://www.smashingmagazine.com/2012/04/24/a-closer-look-at-font-rendering/
+[18]: http://typophile.com/node/81483
+[19]: http://informationarchitects.net/blog/responsive-typography/
+[20]: http://colororacle.org/
+[21]: http://www.urbandictionary.com/define.php?term=go+postal
+[22]: http://asserttrue.blogspot.se/2013/01/the-serif-readability-myth.html
+[23]: http://en.wikipedia.org/wiki/Pangram
+[24]: http://en.wikipedia.org/wiki/Digraph_%28orthography%29#Digraphs_versus_letters
+[25]: http://en.wikipedia.org/wiki/Trigraph_%28orthography%29
+[26]: http://en.wikipedia.org/wiki/Italian_alphabet
+[27]: http://www.usability.gov/pdfs/chapter11.pdf
+[28]: http://www.type-together.com/Skolar
+[29]: http://web.princeton.edu/sites/opplab/papers/Diemand-Yauman_Oppenheimer_2010.pdf
+[30]: http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces/
+[31]: http://www.smashingmagazine.com/2010/12/14/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
+[32]: http://www.smashingmagazine.com/2011/03/24/how-to-choose-a-typeface/
