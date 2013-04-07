@@ -274,7 +274,7 @@ attention deficit disorder, in about every fourth case.
 
 ![Futura and Open Dyslexic](img/dyslexia.jpg?raw=true&repo=designing-reading-experience "Futura and Open Dyslexic")
 
-*Added gravity keeps the letters in place. Shown here are Futura and Open 
+*Added gravity keeps the letters in place. Shown here are Futura and Open
 Dyslexic.*
 
 Font smoothing on the screen is possible thanks to red, green and blue
@@ -337,8 +337,8 @@ Jay Stocks in their decision to go with a sans serif for Smashing Magazine’s
 body text. Upon taking a bird’s-eye view and observing the page’s layout and
 interface as a whole, they concluded:
 
->“Because there’s a lot going on visually on Smashing Magazine — screenshots, 
-buttons and noisy ads — a sans-serif felt like a more sensible, uncluttered 
+>“Because there’s a lot going on visually on Smashing Magazine — screenshots,
+buttons and noisy ads — a sans-serif felt like a more sensible, uncluttered
 route for body copy.” – Vitaly Friedman and Elliot Jay Stocks
 
 ### Letter Legibility
@@ -359,7 +359,7 @@ sizes where character detail can get lost.
 
 ![League Gothic, Gill Sans, Myriad Pro, Neue Helvetica](img/illustrator.jpg?raw=true&repo=designing-reading-experience "League Gothic, Gill Sans, Myriad Pro, Neue Helvetica")
 
-*Try to avoid ambiguous letterforms. Top to bottom: League Gothic, Gill Sans, 
+*Try to avoid ambiguous letterforms. Top to bottom: League Gothic, Gill Sans,
 Myriad Pro, Neue Helvetica.*
 
 ### Foreign Affairs
@@ -417,7 +417,7 @@ that might appeal to your target audience.
 
 ![Differences between Times and Times New Roman](img/skolar-times-new-roman.jpg?raw=true&repo=designing-reading-experience "Differences between Times and Times New Roman")
 
-*Skolar as a replacement for Times and Times New Roman? Can you spot the 
+*Skolar as a replacement for Times and Times New Roman? Can you spot the
 difference between the two Times’?*
 
 A recent study by Connor Diemand-Yauman, Daniel M. Oppenheimer and Erikka B.
@@ -458,7 +458,7 @@ extended typeface is too tiny, the condensed partner could step in.
 
 ![headline set in the League Gothic on a single line](img/orientation-league-gothic.jpg?raw=true&repo=designing-reading-experience "headline set in the League Gothic on a single line")
 
-*This headline, set in the League Gothic on a single line, is barely legible on 
+*This headline, set in the League Gothic on a single line, is barely legible on
 mobile. Set on multiple lines, the headline occupies too much vertical space.*
 
 ![Nimbus Sans Condensed and Nimbus Sans Extended in action](img/orientation-nimbus.jpg?raw=true&repo=designing-reading-experience "Nimbus Sans Condensed and Nimbus Sans Extended in action")
@@ -485,7 +485,7 @@ sizes as compensation for mismatching x-heights.
 
 ![Aller combined with Minion Pro, Georgia and Adelle](img/x-height.jpg?raw=true&repo=designing-reading-experience "Aller combined with Minion Pro, Georgia and Adelle")
 
-*Aller combined with Minion Pro, Georgia and Adelle. Notice how Minion Pro and 
+*Aller combined with Minion Pro, Georgia and Adelle. Notice how Minion Pro and
 Georgia call for additional adjustments to line height.*
 
 ### A Safe Bet Approach
@@ -514,9 +514,9 @@ collections are always a good option to begin with**.
 
 ![JAF Bernino Sans has multiple weights and widths](img/jaf-bernino.jpg?raw=true&repo=designing-reading-experience "JAF Bernino Sans has multiple weights and widths")
 
-*JAF Bernino Sans has multiple weights and widths. The grayed-out letters are 
-fake italics, also referred to as slanted romans. Some browsers are capable of 
-distorting fonts into a slanted shape on the fly with CSS, but pseudo-italics 
+*JAF Bernino Sans has multiple weights and widths. The grayed-out letters are
+fake italics, also referred to as slanted romans. Some browsers are capable of
+distorting fonts into a slanted shape on the fly with CSS, but pseudo-italics
 are considered a typographical crime.*
 
 Typefaces designed by the same designer are often a smart combination, because
@@ -559,7 +559,7 @@ are utilitarian and suitable for long reading. Reading can get boring after a
 while, particularly on an attention-hostile technology such as an Internet-
 connected computer.
 
->“Designers like even grayness, which is the worst thing for a reader.” – Erik 
+>“Designers like even grayness, which is the worst thing for a reader.” – Erik
 Spiekermann
 
 Insert an occasional break with a heading or pull quote, to nudge the reader
